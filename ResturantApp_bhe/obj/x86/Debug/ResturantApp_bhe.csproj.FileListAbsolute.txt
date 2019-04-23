@@ -1,0 +1,18 @@
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\bin\Debug\ResturantApp_bhe.exe
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\bin\Debug\ResturantApp_bhe.pdb
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResturantApp_bhe.mainWindow.resources
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResturantApp_bhe.Properties.Resources.resources
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResturantApp_bhe.exe
+c:\users\keka\documents\visual studio 2010\Projects\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResturantApp_bhe.pdb
+G:\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResturantApp_bhe.exe
+G:\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResturantApp_bhe.pdb
+G:\ResturantApp_bhe\ResturantApp_bhe\bin\Debug\ResturantApp_bhe.exe
+G:\ResturantApp_bhe\ResturantApp_bhe\bin\Debug\ResturantApp_bhe.pdb
+G:\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResturantApp_bhe.mainWindow.resources
+G:\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResturantApp_bhe.Properties.Resources.resources
+G:\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ResturantApp_bhe\ResturantApp_bhe\obj\x86\Debug\GenerateResource.write.1.tlog
